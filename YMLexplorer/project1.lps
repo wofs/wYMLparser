@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Release"/>
+    <Units Count="28">
+      <Unit0>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="10"/>
+        <UsageCount Value="88"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="220"/>
+        <CursorPos X="14" Y="234"/>
+        <UsageCount Value="88"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="win1251decoder.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="32" Y="48"/>
+        <UsageCount Value="86"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="wymlparser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="wYMLparser"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="465"/>
+        <CursorPos X="36" Y="483"/>
+        <ExtraEditorCount Value="2"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <TopLine Value="301"/>
+          <CursorPos X="15" Y="307"/>
+        </ExtraEditor1>
+        <ExtraEditor2>
+          <EditorIndex Value="-1"/>
+          <WindowIndex Value="-1"/>
+          <TopLine Value="336"/>
+          <CursorPos X="33" Y="353"/>
+        </ExtraEditor2>
+        <UsageCount Value="76"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus_1.8_x64\fpc\3.0.4\source\packages\fcl-xml\src\xmlread.pp"/>
+        <UnitName Value="XMLRead"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="58"/>
+        <CursorPos X="11" Y="84"/>
+        <UsageCount Value="7"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="conv1251.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="14"/>
+        <UsageCount Value="15"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus_1.8_x64\fpc\3.0.4\source\packages\fcl-xml\src\xmliconv_windows.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="34" Y="28"/>
+        <UsageCount Value="5"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus_1.8_x64\components\lazutils\lazutf8.pas"/>
+        <UnitName Value="LazUTF8"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="40"/>
+        <CursorPos X="21" Y="59"/>
+        <UsageCount Value="5"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus_1.8_x64\adds_components\zexmlss\zexmlss\src\zexmlss.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="5"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\lazarus_1.8_x64\fpc\3.0.4\source\packages\fcl-xml\src\dom.pp"/>
+        <UnitName Value="DOM"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1018"/>
+        <CursorPos X="3" Y="1035"/>
+        <UsageCount Value="26"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\lazarus_1.8_x64\fpc\3.0.4\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="40" Y="27"/>
+        <UsageCount Value="6"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\lazarus_1.8_x64\adds_components\fpspreadsheet\source\visual\fpspreadsheetctrls.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="40"/>
+        <CursorPos X="19" Y="59"/>
+        <UsageCount Value="9"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\lazarus_1.8_x64\adds_components\fpspreadsheet\source\common\fpspreadsheet.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="67"/>
+        <CursorPos X="20" Y="84"/>
+        <UsageCount Value="6"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\lazarus_1.8_x64\adds_components\fpspreadsheet\source\common\fpstypes.pas"/>
+        <UnitName Value="fpsTypes"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="50" Y="27"/>
+        <UsageCount Value="7"/>
+        <Bookmarks Count="1">
+          <Item0 X="37" Y="719"/>
+        </Bookmarks>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\lazarus_1.8_x64\adds_components\fpspreadsheet\source\common\fpsclasses.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="18"/>
+        <CursorPos X="3" Y="44"/>
+        <UsageCount Value="6"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\lazarus_1.8_x64\components\lazutils\avglvltree.pas"/>
+        <UnitName Value="AvgLvlTree"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="3"/>
+        <UsageCount Value="6"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\lazarus_1.8_x64\fpc\3.0.4\source\rtl\objpas\sysutils\datih.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="125"/>
+        <CursorPos X="10" Y="151"/>
+        <UsageCount Value="14"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\lazarus_1.8_x64\fpc\3.0.4\source\rtl\objpas\sysutils\sysinth.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="32"/>
+        <CursorPos X="20" Y="68"/>
+        <UsageCount Value="14"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\lazarus_1.8_x64\fpc\3.0.4\source\packages\fcl-xml\src\sax_xml.pp"/>
+        <UnitName Value="SAX_XML"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <UsageCount Value="8"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\lazarus_1.8_x64\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2835"/>
+        <CursorPos Y="2861"/>
+        <UsageCount Value="9"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="C:\lazarus_1.8_x64\lcl\comctrls.pp"/>
+        <UnitName Value="ComCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3077"/>
+        <CursorPos X="14" Y="3126"/>
+        <UsageCount Value="15"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\lazarus_1.8_x64\lcl\interfaces\lcl.pas"/>
+        <UnitName Value="LCL"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="C:\lazarus_1.8_x64\lcl\grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="9592"/>
+        <CursorPos Y="9618"/>
+        <UsageCount Value="12"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="D:\Soft\Lazarus_1.8.0_x64\fpc\3.0.4\source\packages\fcl-xml\src\xmltextreader.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="704"/>
+        <CursorPos Y="727"/>
+        <UsageCount Value="12"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="D:\Soft\Lazarus_1.8.0_x64\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="1121"/>
+        <CursorPos X="14" Y="1142"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="D:\Soft\Lazarus_1.8.0_x64\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="196"/>
+        <CursorPos X="14" Y="223"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="D:\Soft\Lazarus_1.8.0_x64\fpc\3.0.4\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="95"/>
+        <CursorPos X="10" Y="118"/>
+        <UsageCount Value="11"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="D:\Soft\Lazarus_1.8.0_x64\fpc\3.0.4\source\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="813"/>
+        <CursorPos X="3" Y="816"/>
+        <UsageCount Value="11"/>
+      </Unit27>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="247" Column="14" TopLine="214"/>
+      </Position1>
+      <Position2>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="288" Column="14" TopLine="255"/>
+      </Position2>
+      <Position3>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="356" Column="22" TopLine="323"/>
+      </Position3>
+      <Position4>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="389" Column="21" TopLine="356"/>
+      </Position4>
+      <Position5>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="449" Column="16" TopLine="416"/>
+      </Position5>
+      <Position6>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="523" Column="45" TopLine="491"/>
+      </Position6>
+      <Position7>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="536" Column="46" TopLine="504"/>
+      </Position7>
+      <Position8>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="573" Column="52" TopLine="541"/>
+      </Position8>
+      <Position9>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="640" Column="52" TopLine="608"/>
+      </Position9>
+      <Position10>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="669" Column="47" TopLine="637"/>
+      </Position10>
+      <Position11>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="772" Column="58" TopLine="740"/>
+      </Position11>
+      <Position12>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="153" Column="25" TopLine="142"/>
+      </Position12>
+      <Position13>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="449" Column="16" TopLine="427"/>
+      </Position13>
+      <Position14>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="440" Column="59" TopLine="419"/>
+      </Position14>
+      <Position15>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="251" Column="51" TopLine="230"/>
+      </Position15>
+      <Position16>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="115" Column="33" TopLine="88"/>
+      </Position16>
+      <Position17>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="297" Column="45" TopLine="276"/>
+      </Position17>
+      <Position18>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="476" Column="25" TopLine="468"/>
+      </Position18>
+      <Position19>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="166" Column="48" TopLine="136"/>
+      </Position19>
+      <Position20>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="122" Column="20" TopLine="106"/>
+      </Position20>
+      <Position21>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="234" Column="16" TopLine="225"/>
+      </Position21>
+      <Position22>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="249" Column="40" TopLine="227"/>
+      </Position22>
+      <Position23>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="58" Column="36" TopLine="25"/>
+      </Position23>
+      <Position24>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="113" Column="90" TopLine="80"/>
+      </Position24>
+      <Position25>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="137" Column="44" TopLine="126"/>
+      </Position25>
+      <Position26>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="307" Column="66" TopLine="274"/>
+      </Position26>
+      <Position27>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="113" Column="86" TopLine="86"/>
+      </Position27>
+      <Position28>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="186" Column="54" TopLine="157"/>
+      </Position28>
+      <Position29>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="115" Column="43" TopLine="86"/>
+      </Position29>
+      <Position30>
+        <Filename Value="wymlparser.pas"/>
+        <Caret Line="487" Column="145" TopLine="465"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="2">
+      <Item1>
+        <Expression Value="aCategories[i].parentId"/>
+      </Item1>
+      <Item2>
+        <Expression Value="aCategories[j].parentId"/>
+      </Item2>
+    </Watches>
+  </Debugging>
+</CONFIG>
